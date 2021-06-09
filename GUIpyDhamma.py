@@ -1,5 +1,4 @@
-# Ben Woodfield
-# 03/12/2016
+# B.Woodfield / RaserSharp
 # Verses from the Dhammapada
 # A book written from a collection of wise sayings in Buddhism
 # The sayings were from Siddartha Gautama - or as we know him - Buddha
