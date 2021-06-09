@@ -26,20 +26,6 @@ class MainApplication(tk.Frame):
     def __init__(self, parent):
         tk.Frame.__init__(self, parent)  
         self.parent = parent
-
-        '''def random_line():
-            line_num = 0
-            selected_line = ''
-            with open('dhammapada.txt') as f:
-                while 1:
-                    line = f.readline()
-                    if not line: break
-                    line_num += 1 
-                    if random.uniform(0, line_num) < 1:
-                        selected_line = line
-            return selected_line.strip()'''
-
-        #def print_a_verse():
             
         def random_line():
             line_num = 0
