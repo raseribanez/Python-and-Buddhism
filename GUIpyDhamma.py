@@ -16,11 +16,6 @@ import random
 import tkinter as tk
 from tkinter import *
 
-''' This class template was my original one. It includes a lot of arguments of which
-    I feel my level of programs don't need. I have since made a lighter class template
-    for my GUI apps and plan to update them all soon. For now I have commented out any
-    un-needed args '''
-
 class MainApplication(tk.Frame):
     def __init__(self, parent):
         tk.Frame.__init__(self, parent)  
